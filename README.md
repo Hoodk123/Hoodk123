@@ -9,8 +9,11 @@
 
 ### 🎯 About Me
 
-I'm a developer who likes taking things apart to see how they connect — literally. My work spans **AI agent systems**, **networking/infra**, and **mobile development**:
+I'm an enthusiast of Software Engineering and how systems are built — always exploring, adapting, and utilizing new technology as it emerges. I like living in the space between **creating, exploring, and adapting**: taking new tools and turning them into solutions that communities actually need, because software delivered well can make a real, lasting impact.
 
+Brainstorm → build → ship, for a better world — by Faith and God First. 🙏
+
+Practically, that shows up as work in AI agent systems, networking/infra, and mobile development:
 - 🤖 Building multi-agent AI frameworks (token-efficient routing, role-isolated agents)
 - 🌐 Exploring how Docker containers communicate over private networks the way physical machines do
 - 🔒 Interested in cybersecurity — auth systems, access control, hardened infra
@@ -28,6 +31,10 @@ I'm a developer who likes taking things apart to see how they connect — litera
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
 **Infra / Systems**
@@ -37,6 +44,10 @@ I'm a developer who likes taking things apart to see how they connect — litera
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/LDAP-8A2BE2?style=for-the-badge&logo=openldap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AMD-000000?style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 </p>
 
 **AI / Agents**
@@ -44,6 +55,19 @@ I'm a developer who likes taking things apart to see how they connect — litera
 <img src="https://img.shields.io/badge/Fireworks_AI-6C4EF6?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Multi--Agent_Systems-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP_Servers-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+</p>
+
+**Frameworks & Dev Tools**
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Jules-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 **Mobile**
@@ -69,7 +93,9 @@ I'm a developer who likes taking things apart to see how they connect — litera
 | [**ldap-auth**](https://github.com/Hoodk123/ldap-auth) | Lightweight LDAP auth service written in Go |
 | [**TRIARC**](https://github.com/Hoodk123/TRIARC) | Token-efficient multi-agent routing framework (Orchestrator/Researcher/Executor) built on Fireworks AI — built for AMD Developer Hackathon |
 | [**robot-project**](https://github.com/Hoodk123/robot-project) | Robotics dev with Webots & ROS2 integration |
-| [**simple-kernels**](https://github.com/Hoodk123/simple-kernels) | Low-level C++ kernel experiments |
+| [**simple-kernels**](https://github.com/Hoodk123/simple-kernels) | C++ vision kernels, built to understand low-level vision compute ahead of the AMD Developer Program |
+
+> 🚧 More projects landing soon — this list keeps growing.
 
 ---
 
@@ -90,4 +116,7 @@ I'm a developer who likes taking things apart to see how they connect — litera
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevin-shyaka-94080a319"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.gg/WYsJteK6n"><img src="https://img.shields.io/badge/Discord-HENCEs-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:kevinshyaka27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/k_shy.a.k.a"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
