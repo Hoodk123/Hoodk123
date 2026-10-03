@@ -1,122 +1,71 @@
-<h1 align="center">Hi, I'm Kevin Shyaka (Hoodk123) 👋</h1>
-<h3 align="center">Systems engineer exploring how machines talk to each other — networks, containers, and AI agents alike.</h3>
+# Kevin Shyaka
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2DB55D&center=true&vCenter=true&width=600&lines=Building+multi-agent+AI+systems;Exploring+Docker+networking+%26+infra;Interested+in+cybersecurity+%26+distributed+systems;Flutter+%2F+Android+%2F+Cloud+dev" alt="Typing SVG" />
-</p>
+**Software Engineering student building practical software, backend systems, and security-focused projects.**
 
----
-
-### 🎯 About Me
-
-I'm an enthusiast of Software Engineering and how systems are built — always exploring, adapting, and utilizing new technology as it emerges. I like living in the space between **creating, exploring, and adapting**: taking new tools and turning them into solutions that communities actually need, because software delivered well can make a real, lasting impact.
-
-Brainstorm → build → ship, for a better world — by Faith and God First. 🙏
-
-Practically, that shows up as work in AI agent systems, networking/infra, and mobile development:
-- 🤖 Building multi-agent AI frameworks (token-efficient routing, role-isolated agents)
-- 🌐 Exploring how Docker containers communicate over private networks the way physical machines do
-- 🔒 Interested in cybersecurity — auth systems, access control, hardened infra
-- 📱 Flutter/Android developer with cloud infrastructure experience
-- 🏆 Active in hackathons (lablab.ai) building real, deployable systems under deadline pressure
+I enjoy understanding how software works underneath and turning ideas into usable systems. My current interests include **backend development, networking, Linux, cybersecurity, and AI-agent systems**.
 
 ---
 
-### 🧰 Tech Stack
+## Focus
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
-**Infra / Systems**
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/LDAP-8A2BE2?style=for-the-badge&logo=openldap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AMD-000000?style=for-the-badge&logo=amd&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-</p>
-
-**AI / Agents**
-<p>
-<img src="https://img.shields.io/badge/Fireworks_AI-6C4EF6?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP_Servers-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-</p>
-
-**Frameworks & Dev Tools**
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Jules-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
-**Mobile**
-<p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
-**Robotics**
-<p>
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Webots-black?style=for-the-badge"/>
-</p>
+* **Backend & Software Engineering** — building APIs, services, and practical applications
+* **Systems & Infrastructure** — Linux, Docker, networking, and Nginx
+* **Cybersecurity** — learning through hands-on labs, authentication, access control, and secure systems
+* **AI Agents** — building and experimenting with multi-agent systems
+* **Open Source** — contributing to real projects and collaborating with other developers
 
 ---
 
-### 🚀 Featured Projects
+## Tech Stack
 
-| Project | What it does |
-|---|---|
-| [**Net_lab**](https://github.com/Hoodk123/Net_lab) | Docker container networking lab — explores how containers communicate over a private network the same way physical machines do |
-| [**proxy-serve**](https://github.com/Hoodk123/proxy-serve) | Serves an app across 3 replicas behind Nginx for high availability |
-| [**ldap-auth**](https://github.com/Hoodk123/ldap-auth) | Lightweight LDAP auth service written in Go |
-| [**TRIARC**](https://github.com/Hoodk123/TRIARC) | Token-efficient multi-agent routing framework (Orchestrator/Researcher/Executor) built on Fireworks AI — built for AMD Developer Hackathon |
-| [**robot-project**](https://github.com/Hoodk123/robot-project) | Robotics dev with Webots & ROS2 integration |
-| [**simple-kernels**](https://github.com/Hoodk123/simple-kernels) | C++ vision kernels, built to understand low-level vision compute ahead of the AMD Developer Program |
+### Languages
 
-> 🚧 More projects landing soon — this list keeps growing.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+
+### Backend & Systems
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+### Web & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square\&logo=astro\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+### AI
+
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-111827?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## Selected Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hoodk123&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoodk123&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hoodk123&theme=radical&hide_border=true" />
-</p>
+| Project                                                    | Description                                                                                                                   |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **[TRIARC](https://github.com/Hoodk123/TRIARC)**           | Multi-agent AI system that routes tasks between different reasoning tiers to make development workflows more efficient.       |
+| **[osk-backend](https://github.com/Hoodk123/osk-backend)** | Open-source backend contribution with Open-Source-Kigali, working through issues, implementation, testing, and collaboration. |
+| **[Eagle Taxi](https://github.com/Hoodk123/eagle-taxi)**   | Website built for a local transportation business, focused on a practical real-world use case and clean user experience.      |
+| **[Net_lab](https://github.com/Hoodk123/Net_lab)**         | Hands-on exploration of Docker networking and communication between containers on private networks.                           |
+| **[ldap-auth](https://github.com/Hoodk123/ldap-auth)**     | Lightweight authentication service written in Go, exploring LDAP and backend authentication systems.                          |
+| **[TradOX](https://github.com/Hoodk123/Alpaca-trade)**     | AI-powered paper-trading agent combining market analysis, risk controls, paper orders, and an interactive dashboard.          |
 
 ---
 
-### 🌍 Connect
+## Currently Learning
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kevin-shyaka-94080a319"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discord.gg/WYsJteK6n"><img src="https://img.shields.io/badge/Discord-HENCEs-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:kevinshyaka27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/k_shy.a.k.a"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+**Backend Engineering · Networking · Linux · Cybersecurity · Distributed Systems · AI Agents**
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/kevin-shyaka-94080a319) · [GitHub](https://github.com/Hoodk123) · [Email](mailto:kevinshyaka27@gmail.com)
