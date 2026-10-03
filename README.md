@@ -37,6 +37,8 @@ I enjoy understanding how software works underneath and turning ideas into usabl
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite\&logoColor=white)
+
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square\&logo=astro\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
